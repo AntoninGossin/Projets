@@ -67,7 +67,7 @@ Due to confidentiality agreements, most source code, test results and technical 
 
 A summary of these activities can be found in:
 
-- `CNES_activities.pdf`
+- `CNES Activities Summary`
 
 When contractual constraints allowed it, some personal developments have been made publicly available.
 
