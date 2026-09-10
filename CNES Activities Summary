@@ -1,0 +1,136 @@
+# CNES Activities Summary
+
+The activities presented in this document were performed as part of my professional responsibilities within CNES.
+
+Several developments, reports, software tools and operational analyses remain the intellectual property of CNES and associated partners. Therefore, detailed technical information, source code, measured data and operational results cannot be publicly disclosed.
+
+The purpose of this document is to provide an overview of the projects and responsibilities involved.
+
+---
+
+# 1. GNSS Monitoring Campaigns
+
+Participation in planning and execution of GNSS and LEO-PNT signal collection campaigns.
+
+Main activities:
+
+- RF measurement chain validation
+- Signal integrity verification
+- Spectral analysis
+- Interference investigations
+- Multi-station measurement coordination
+- Data quality assessment
+
+Detailed results omitted due to confidentiality requirements.
+
+---
+
+# 2. G-Console
+
+Operational software used for controlling the parabolic antenna system.
+
+Available material:
+
+- User manual
+- Software documentation
+
+Main functions:
+
+- Antenna control
+- Tracking configuration
+- Measurement preparation
+- Operational monitoring
+
+Source code not publicly available.
+
+---
+
+# 3. GRAIN
+
+Originally developed as a personal initiative and subsequently integrated into operational activities.
+
+Available material:
+
+- User manual
+- Software specifications
+
+Main capabilities:
+
+- Measurement scheduling
+- SDR test execution
+- Antenna validation workflows
+- Automated monitoring
+- Data acquisition management
+- InfluxDB integration
+- Grafana dashboard generation
+
+The source code cannot be distributed because it interfaces with CNES operational infrastructure and confidential equipment.
+
+---
+
+# 4. Satellite KPI Production Automation
+
+Development of a software framework used to automatically generate customer-oriented performance indicators from collected satellite measurements.
+
+Available material:
+
+- Functional specifications
+- User guide
+
+Main functionalities:
+
+- Automated data processing
+- KPI generation
+- Report production
+- Compliance with customer requirements
+- Quality control
+
+Source code and produced datasets remain confidential.
+
+---
+
+# 5. European Collaborative Activities
+
+Contribution to technical studies performed with European partners.
+
+Deliverables included:
+
+- Technical analyses
+- Joint engineering reports
+- Performance assessments
+- Operational recommendations
+
+Several reports were delivered to European institutions.
+
+Detailed content remains subject to institutional confidentiality agreements.
+
+---
+
+# Technical Environment
+
+Technologies used throughout these activities include:
+
+- Python
+- Linux
+- GNU Radio
+- SDR Platforms
+- USRP
+- InfluxDB
+- Grafana
+- Git
+- Docker
+- RF Test Equipment
+
+Including:
+- Spectrum analysers
+- Oscilloscopes
+- Signal generators
+- Power meters
+
+---
+
+# Note
+
+This document intentionally provides a high-level overview.
+
+It is designed to illustrate the scope of the performed engineering activities while respecting confidentiality and intellectual property obligations.
