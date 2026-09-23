@@ -80,6 +80,13 @@ This document describes a Hardware-In-the-Loop calibration tool developed as a p
 File:
 - `SDR_power_calibration.pdf`
 
+#### Differential GNSS Navigation Algorithm Study
+
+This document presents a study of a carrier-phase differential GNSS (CDGPS) navigation architecture for close-proximity spacecraft operations. The work covers GNSS measurement modeling, single and double differencing techniques, Extended Kalman Filter based relative navigation, integer ambiguity resolution using LAMBDA, robustness considerations, antenna phase-center effects, and a proposed roadmap from prototyping to embedded implementation.
+
+File:
+- `Differential_GNSS_algorithm.pptx`
+
 ---
 
 ## Language
