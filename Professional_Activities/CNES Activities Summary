@@ -64,7 +64,7 @@ Main capabilities:
 - InfluxDB integration
 - Grafana dashboard generation
 
-The source code cannot be distributed because it interfaces with CNES operational infrastructure and confidential equipment.
+The source code cannot be distributed because it interfaces with CNES operational infrastructure and confidential equipment but I still share a presentation introducing GRAIN automation tool (Galileo_GRAIN_presentation.pdf)
 
 ---
 
